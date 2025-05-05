@@ -117,7 +117,17 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>Coinbase Supporter is the dedicated customer service team for Coinbase, a leading online platform for buying, selling, and storing cryptocurrencies such as Bitcoin, USDT, Ethereum, and many others.
+
+The Coinbase Support team is responsible for:
+
+Assisting users with questions about Coinbase’s features and services.
+
+Resolving issues related to accounts, transactions, and payments.
+
+Offering guidance on security measures, identity verification, and regulatory compliance.
+
+Troubleshooting technical problems, including login difficulties and connectivity issues. You can typically reach Coinbase Support through here. </p>
           </div>
         `
         break
